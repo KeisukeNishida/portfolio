@@ -113,6 +113,7 @@ if($result === '勝ち'){ print "<img src= 'sazae.image/s.win.PNG' alt='image' w
 <div class="bg bg3"></div>
 
 
+
 </body>
 </div>
 </html>

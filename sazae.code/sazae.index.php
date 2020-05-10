@@ -22,13 +22,14 @@ if (isset($_POST['choice'])) {
 <br />
 <br />
 <br />
-<h1>サザエさん　ジャンケンゲーム</h1>
+<h1>サザエさん　<br />ジャンケンゲーム</h1>
 </head>
 <body>
 
-<link rel="stylesheet" type="text/css" href="sazae.css.php">
+<link rel="stylesheet" type="text/css" href="sazae.css.php" >
 
  <div>
+
 
 <p>選んでください。</p>
 
@@ -50,6 +51,7 @@ if (isset($_POST['choice'])) {
 <div class="bg bg3"></div>
 
 
+</div>
 
 </body>
 </div>
