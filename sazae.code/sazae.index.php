@@ -30,9 +30,9 @@ if (isset($_POST['choice'])) {
 
  <div>
 
-
+<br>
 <p>選んでください。</p>
-
+<br>
 <form action="sazae.battle.php" method="post" onclick="MoveCheck();">
 
 
@@ -44,6 +44,7 @@ if (isset($_POST['choice'])) {
 
 </form>
 
+<br>
 <img src="sazae.image/sss.PNG" alt='image' width='400' height='400'>
 
 <div class="bg"></div>
